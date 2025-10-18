@@ -38,8 +38,8 @@ Minimal, authentic imagery drawn from charity: water’s visual library ensures 
 ---
 
 ##  Live Preview
-👉 [View Landing Page on Canva](https://cdo052.my.canva.site/)  
-👉 *(GitHub Pages link coming soon)*
+ [View Landing Page on Canva](https://cdo052.my.canva.site/)  
+ *(GitHub Pages link coming soon)*
 
 ---
 
