@@ -6,20 +6,20 @@
 
 ---
 
-## 💡 Project Overview
+##  Project Overview
 This project was created to **activate the next generation of charity: water supporters**, especially **college students** who are eager to make a social impact.  
 The design combines simplicity, clarity, and emotional resonance — guiding users to **learn, connect, and donate** effortlessly.
 
 ---
 
-## 🎯 Value Proposition
+##  Value Proposition
 **Charity: water empowers socially conscious students** to turn their passion for change into real-world impact.  
 By donating, they help bring clean, safe drinking water to communities in need — transforming lives through **hope, health, and opportunity**.
 
 ---
 
-## 🖌️ Brand Visuals
-### 🎨 Color Palette
+##  Brand Visuals
+###  Color Palette
 | Color | Meaning | Hex |
 |-------|----------|------|
 | Soft Blue-Gray | Calmness & Dependability | `#77A8BB` |
@@ -28,29 +28,29 @@ By donating, they help bring clean, safe drinking water to communities in need �
 
 These colors convey **hope, trust, and clarity**, aligning with charity: water’s mission to bring light and life to communities around the world.
 
-### ✍️ Typography
+###  Typography
 **Font:** Proxima Nova  
 Chosen for its **modern, clean, and approachable** feel — ideal for connecting with a younger audience.
 
-### 📸 Photography
+###  Photography
 Minimal, authentic imagery drawn from charity: water’s visual library ensures the design feels **trustworthy and human-centered**, keeping the focus on real people and real impact.
 
 ---
 
-## 💻 Live Preview
+##  Live Preview
 👉 [View Landing Page on Canva](https://cdo052.my.canva.site/)  
 👉 *(GitHub Pages link coming soon)*
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 - **HTML5**
 - **CSS3** (no frameworks, beginner-friendly)
 - **Visual Studio Code / GitHub Codespaces**
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 ```bash
 # Clone the repository
 git clone https://github.com/catdo052/Build-the-charity-water-Landing-Page.git
