@@ -1,4 +1,4 @@
-# 🌊 Build the Charity: Water Landing Page  
+#  Build the Charity: Water Landing Page  
 *Designed by Catherine Do*
 
 > **Make Your Impact. Flow Further.**  
