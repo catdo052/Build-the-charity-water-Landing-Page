@@ -50,15 +50,4 @@ Minimal, authentic imagery drawn from charity: water’s visual library ensures 
 
 ---
 
-##  How to Run Locally
-```bash
-# Clone the repository
-git clone https://github.com/catdo052/Build-the-charity-water-Landing-Page.git
 
-# Open the folder
-cd Build-the-charity-water-Landing-Page
-
-# Open in VS Code
-code .
-
-# Launch with Live Server (recommended)
