@@ -44,8 +44,7 @@ Minimal, authentic imagery drawn from charity: water’s visual library ensures 
 ---
 
 ##  Tech Stack
-- **HTML5**
-- **CSS3** (no frameworks, beginner-friendly)
+- **canva**
 - **Visual Studio Code / GitHub Codespaces**
 
 ---
